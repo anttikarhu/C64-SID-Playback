@@ -13,9 +13,5 @@ How to:
 
 - Launch CBM
 - Open project in CBM
-- Download your favorite .sid file
-- Edit file path in code
-- Edit init address in code
-- Edit playback address in code
 - Hit Ctrl + F5, then Esc
 - You can quit the app by pressing Esc + PageUp
